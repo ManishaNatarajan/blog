@@ -1,25 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome"
 date:   2024-03-19 23:11:52 -0400
-categories: jekyll update
+categories: General
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hi! This is [Manisha Natarajan](https://manishanatarajan.github.io/). I am a Robotics PhD student at Georgia Tech and I 
+use this blog to share my notes on different technical concepts that I'm currently working on or have previously encountered in my 
+research. For all my posts, I plan to explain the concepts at three levels:
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+    Level 1 (TLDR): High-level overview without any math
+    Level 2 (Moderate): More details, excluding in-depth proofs
+    Level 3 (Intense): Go deep into explaining and include mathematical proofs
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Please feel free to comment if you have any questions or find any mistakes!
